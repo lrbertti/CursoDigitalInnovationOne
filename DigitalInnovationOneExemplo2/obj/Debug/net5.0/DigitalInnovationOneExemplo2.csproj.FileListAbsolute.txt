@@ -1,0 +1,15 @@
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/DigitalInnovationOneExemplo2/bin/Debug/net5.0/DigitalInnovationOneExemplo2.deps.json
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/DigitalInnovationOneExemplo2/bin/Debug/net5.0/DigitalInnovationOneExemplo2.runtimeconfig.json
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/DigitalInnovationOneExemplo2/bin/Debug/net5.0/DigitalInnovationOneExemplo2.runtimeconfig.dev.json
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/DigitalInnovationOneExemplo2/bin/Debug/net5.0/DigitalInnovationOneExemplo2.dll
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/DigitalInnovationOneExemplo2/bin/Debug/net5.0/ref/DigitalInnovationOneExemplo2.dll
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/DigitalInnovationOneExemplo2/bin/Debug/net5.0/DigitalInnovationOneExemplo2.pdb
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/DigitalInnovationOneExemplo2/obj/Debug/net5.0/DigitalInnovationOneExemplo2.csproj.AssemblyReference.cache
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/DigitalInnovationOneExemplo2/obj/Debug/net5.0/DigitalInnovationOneExemplo2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/DigitalInnovationOneExemplo2/obj/Debug/net5.0/DigitalInnovationOneExemplo2.AssemblyInfoInputs.cache
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/DigitalInnovationOneExemplo2/obj/Debug/net5.0/DigitalInnovationOneExemplo2.AssemblyInfo.cs
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/DigitalInnovationOneExemplo2/obj/Debug/net5.0/DigitalInnovationOneExemplo2.csproj.CoreCompileInputs.cache
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/DigitalInnovationOneExemplo2/obj/Debug/net5.0/DigitalInnovationOneExemplo2.dll
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/DigitalInnovationOneExemplo2/obj/Debug/net5.0/ref/DigitalInnovationOneExemplo2.dll
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/DigitalInnovationOneExemplo2/obj/Debug/net5.0/DigitalInnovationOneExemplo2.pdb
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/DigitalInnovationOneExemplo2/obj/Debug/net5.0/DigitalInnovationOneExemplo2.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/PrimeiroProjeto/bin/Debug/net5.0/PrimeiroProjeto.deps.json
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/PrimeiroProjeto/bin/Debug/net5.0/PrimeiroProjeto.runtimeconfig.json
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/PrimeiroProjeto/bin/Debug/net5.0/PrimeiroProjeto.runtimeconfig.dev.json
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/PrimeiroProjeto/bin/Debug/net5.0/PrimeiroProjeto.dll
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/PrimeiroProjeto/bin/Debug/net5.0/ref/PrimeiroProjeto.dll
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/PrimeiroProjeto/bin/Debug/net5.0/PrimeiroProjeto.pdb
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/PrimeiroProjeto/obj/Debug/net5.0/PrimeiroProjeto.csproj.AssemblyReference.cache
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/PrimeiroProjeto/obj/Debug/net5.0/PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/PrimeiroProjeto/obj/Debug/net5.0/PrimeiroProjeto.AssemblyInfoInputs.cache
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/PrimeiroProjeto/obj/Debug/net5.0/PrimeiroProjeto.AssemblyInfo.cs
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/PrimeiroProjeto/obj/Debug/net5.0/PrimeiroProjeto.csproj.CoreCompileInputs.cache
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/PrimeiroProjeto/obj/Debug/net5.0/PrimeiroProjeto.dll
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/PrimeiroProjeto/obj/Debug/net5.0/ref/PrimeiroProjeto.dll
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/PrimeiroProjeto/obj/Debug/net5.0/PrimeiroProjeto.pdb
+/Users/luhbertti/Desktop/Faculdade/workspace/projetoC#/PrimeiroProjeto/obj/Debug/net5.0/PrimeiroProjeto.genruntimeconfig.cache
